@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ingam\\source\\repos\\Hydra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\WindowManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\WindowManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\ColumnManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\ColumnManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\ColumnManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\ColumnManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\MergeSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\MergeSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\QuickSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\QuickSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SortCommands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\SortCommands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\BubbleSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\BubbleSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\ISortStrategy.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\ISortStrategy.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SortCommands.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\SortCommands.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SelectionSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\SelectionSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\Sorter.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\Sorter.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\InsertionSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\InsertionSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\WindowManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}|Hydra\\Hydra.vcxproj|solutionrelative:Hydra\\WindowManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 590,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 362,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MergeSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\MergeSort.cpp",
+              "RelativeDocumentMoniker": "Hydra\\MergeSort.cpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\MergeSort.cpp",
+              "RelativeToolTip": "Hydra\\MergeSort.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowDcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T08:08:07.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColumnManager.cpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\ColumnManager.cpp",
+              "RelativeDocumentMoniker": "Hydra\\ColumnManager.cpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\ColumnManager.cpp",
+              "RelativeToolTip": "Hydra\\ColumnManager.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T07:45:13.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortCommands.cpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SortCommands.cpp",
+              "RelativeDocumentMoniker": "Hydra\\SortCommands.cpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SortCommands.cpp",
+              "RelativeToolTip": "Hydra\\SortCommands.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T07:41:48.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InsertionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\InsertionSort.cpp",
+              "RelativeDocumentMoniker": "Hydra\\InsertionSort.cpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\InsertionSort.cpp",
+              "RelativeToolTip": "Hydra\\InsertionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T09:30:44.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuickSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\QuickSort.cpp",
+              "RelativeDocumentMoniker": "Hydra\\QuickSort.cpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\QuickSort.cpp",
+              "RelativeToolTip": "Hydra\\QuickSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T09:09:55.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SelectionSort.cpp",
+              "RelativeDocumentMoniker": "Hydra\\SelectionSort.cpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SelectionSort.cpp",
+              "RelativeToolTip": "Hydra\\SelectionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T09:19:15.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BubbleSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\BubbleSort.cpp",
+              "RelativeDocumentMoniker": "Hydra\\BubbleSort.cpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\BubbleSort.cpp",
+              "RelativeToolTip": "Hydra\\BubbleSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T09:27:12.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 407,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISortStrategy.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\ISortStrategy.hpp",
+              "RelativeDocumentMoniker": "Hydra\\ISortStrategy.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\ISortStrategy.hpp",
+              "RelativeToolTip": "Hydra\\ISortStrategy.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T09:35:18.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectionSort.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SelectionSort.hpp",
+              "RelativeDocumentMoniker": "Hydra\\SelectionSort.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SelectionSort.hpp",
+              "RelativeToolTip": "Hydra\\SelectionSort.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T09:23:48.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuickSort.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\QuickSort.hpp",
+              "RelativeDocumentMoniker": "Hydra\\QuickSort.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\QuickSort.hpp",
+              "RelativeToolTip": "Hydra\\QuickSort.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T09:11:18.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MergeSort.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\MergeSort.hpp",
+              "RelativeDocumentMoniker": "Hydra\\MergeSort.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\MergeSort.hpp",
+              "RelativeToolTip": "Hydra\\MergeSort.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T11:03:48.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sorter.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\Sorter.hpp",
+              "RelativeDocumentMoniker": "Hydra\\Sorter.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\Sorter.hpp",
+              "RelativeToolTip": "Hydra\\Sorter.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T09:59:37.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BubbleSort.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\BubbleSort.hpp",
+              "RelativeDocumentMoniker": "Hydra\\BubbleSort.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\BubbleSort.hpp",
+              "RelativeToolTip": "Hydra\\BubbleSort.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T07:30:22.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowManager.cpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\WindowManager.cpp",
+              "RelativeDocumentMoniker": "Hydra\\WindowManager.cpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\WindowManager.cpp",
+              "RelativeToolTip": "Hydra\\WindowManager.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T10:33:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\main.cpp",
+              "RelativeDocumentMoniker": "Hydra\\main.cpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\main.cpp",
+              "RelativeToolTip": "Hydra\\main.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T14:32:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WindowManager.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\WindowManager.hpp",
+              "RelativeDocumentMoniker": "Hydra\\WindowManager.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\WindowManager.hpp",
+              "RelativeToolTip": "Hydra\\WindowManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T10:35:18.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SortCommands.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SortCommands.hpp",
+              "RelativeDocumentMoniker": "Hydra\\SortCommands.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\SortCommands.hpp",
+              "RelativeToolTip": "Hydra\\SortCommands.hpp",
+              "ViewState": "AgIAACEAAAAAAAAAAABBwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T11:49:57.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColumnManager.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\ColumnManager.hpp",
+              "RelativeDocumentMoniker": "Hydra\\ColumnManager.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\ColumnManager.hpp",
+              "RelativeToolTip": "Hydra\\ColumnManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T10:47:56.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InsertionSort.hpp",
+              "DocumentMoniker": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\InsertionSort.hpp",
+              "RelativeDocumentMoniker": "Hydra\\InsertionSort.hpp",
+              "ToolTip": "C:\\Users\\ingam\\source\\repos\\Hydra\\Hydra\\InsertionSort.hpp",
+              "RelativeToolTip": "Hydra\\InsertionSort.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T09:30:47.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

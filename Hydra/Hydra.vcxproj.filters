@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{71ae2b4e-e0cd-4d47-a680-265de0bcaa31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers">
+      <UniqueIdentifier>{e3f33731-9f38-4a23-8780-61a5fd83cb22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms">
+      <UniqueIdentifier>{1312419d-ae01-4111-903f-cea48f0c78e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\SortingAlgorithms">
+      <UniqueIdentifier>{c62f9f10-5586-4f69-99c9-84dec4ee7eaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Commands">
+      <UniqueIdentifier>{8db7d90d-9dc5-4b37-8001-36d475956f50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Interfaces">
+      <UniqueIdentifier>{aa6cf1ed-1cdf-4d20-bdf7-dc90ecec030f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Fractals">
+      <UniqueIdentifier>{4e2a51f2-366b-44c2-841f-fb5fe0931a7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserMenu">
+      <UniqueIdentifier>{b50a9227-02ef-441e-816e-78892b00668a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="ColumnManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="BubbleSort.cpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort.cpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSort.cpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.cpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="SortCommands.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="Invoker.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>UserMenu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WindowManager.hpp">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="ColumnManager.hpp">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="BubbleSort.hpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickSort.hpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="ISortStrategy.hpp">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Sorter.hpp">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertionSort.hpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeSort.hpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="ICommand.hpp">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="SortCommands.hpp">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectionSort.hpp">
+      <Filter>Algorithms\SortingAlgorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="Invoker.hpp">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.hpp">
+      <Filter>UserMenu</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

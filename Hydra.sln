@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hydra", "Hydra\Hydra.vcxproj", "{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}.Debug|x64.ActiveCfg = Debug|x64
+		{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}.Debug|x64.Build.0 = Debug|x64
+		{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}.Debug|x86.Build.0 = Debug|Win32
+		{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}.Release|x64.ActiveCfg = Release|x64
+		{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}.Release|x64.Build.0 = Release|x64
+		{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}.Release|x86.ActiveCfg = Release|Win32
+		{DEFFF9DD-0025-4D64-A9DB-72219E5CD638}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2221AE3-D613-45CF-81DE-CBB67A905489}
+	EndGlobalSection
+EndGlobal
